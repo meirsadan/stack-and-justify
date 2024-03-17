@@ -41,6 +41,11 @@ export const Words = (function() {
 			code: 'de',
 			selected: false
 		}, {
+			name: 'hebrew',
+			label: 'Hebrew',
+			code: 'he',
+			selected: false
+		}, {
 			name: 'hungarian',
 			label: 'Hungarian',
 			code: 'hu',
